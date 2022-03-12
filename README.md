@@ -1,4 +1,4 @@
-### ## Hey 👋, I'm Jiajun Yao
+### Hey 👋, I'm Jiajun Yao
 
 <a href="https://github.com/Yao-14"><img src="https://komarev.com/ghpvc/?username=Yao-14" alt="Yao-14" /></a>
 <a href="https://github.com/Yao-14?tab=followers"><img src="https://img.shields.io/github/followers/Yao-14"></a>
