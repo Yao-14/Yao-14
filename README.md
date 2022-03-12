@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### My GitHub Stats
 
 ![Yao-14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yao-14&count_private=true&hide=prs&theme=onedark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yao-14&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yao-14)
 
 ### My GitHub Contributions
 
