@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/Yao-14"><img src="https://komarev.com/ghpvc/?username=Yao-14" alt="Yao-14" /></a>
+<a href="https://github.com/Yao-14?tab=followers"><img src="https://img.shields.io/github/followers/Yao-14"></a>
+<a href="mailto:yjj_zj@163.com"><img src="https://img.shields.io/badge/Email-yjj_zj@163.com-blue" alt="Email" /></a>
 
 ### My GitHub Stats
 
