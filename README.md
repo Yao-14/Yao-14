@@ -6,5 +6,5 @@
 
 
 ![Yao-14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yao-14&count_private=true&hide=prs&theme=onedark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yao-14)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yao-14&theme=onedark)
 ![](https://raw.githubusercontent.com/Yao-14/Yao-14/main/assets/github-contribution-grid-snake.svg)
