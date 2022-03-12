@@ -1,4 +1,4 @@
-### Hi there 👋
+### ## Hey 👋, I'm Jiajun Yao
 
 <!--
 **Yao-14/Yao-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My GitHub Stats
+
+![Yao-14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yao-14&count_private=true&hide=prs&theme=onedark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yao-14&layout=compact)
+
+### My GitHub Contributions
+
+![](https://raw.githubusercontent.com/Yao-14/Yao-14/main/assets/github-contribution-grid-snake.svg)
+
