@@ -6,5 +6,4 @@
 <a href="mailto:yjj_zj@163.com"><img src="https://img.shields.io/badge/Email-yjj_zj@163.com-blue" alt="Email" /></a>
 
 ![Yao-14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yao-14&count_private=true&hide=prs&theme=onedark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yao-14&theme=onedark)
 ![](https://raw.githubusercontent.com/Yao-14/Yao-14/main/assets/github-user-contribution.svg)
